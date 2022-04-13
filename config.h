@@ -105,6 +105,9 @@ static Key keys[] = {
         TAGKEYS(                        XK_3,                      2)
         { MODKEY|ShiftMask,             XK_q,      quit,           {0} },
       /*{ MODKEY,                     XK_BackSpace,spawn,          SHCMD("pmenu") },*/
+      /*{ MODKEY,                       XK_F1,     spawn,          SHCMD("volmute") },*/
+      /*{ MODKEY,                       XK_F2,     spawn,          SHCMD("voldown") },*/
+      /*{ MODKEY,                       XK_F3,     spawn,          SHCMD("volup") },*/
 };
 
 /* button definitions */
