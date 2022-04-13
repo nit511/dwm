@@ -1,0 +1,5 @@
+#!/bin/bash
+
+pulsemixer --change-volume +5
+pkill dwmblocks
+dwmblocks &
