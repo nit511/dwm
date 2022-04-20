@@ -108,6 +108,8 @@ static Key keys[] = {
       /*{ MODKEY,                       XK_F1,     spawn,          SHCMD("volmute") },*/
       /*{ MODKEY,                       XK_F2,     spawn,          SHCMD("voldown") },*/
       /*{ MODKEY,                       XK_F3,     spawn,          SHCMD("volup") },*/
+      /*{ MODKEY,                       XK_F5,     spawn,          SHCMD("brightnessctl set 5%-") },*/
+      /*{ MODKEY,                       XK_F6,     spawn,          SHCMD("brightnessctl set +5%") },*/
 };
 
 /* button definitions */
